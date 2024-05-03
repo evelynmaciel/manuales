@@ -1,0 +1,9 @@
+git init --> iniciar repositorio
+git status --> estado del repositorio
+git add . --> preparar el repositorio para el commit
+git commit -m "descripcion" --> mensaje del commit
+git log --> visualiza el historial de commits
+git reset -- hard numero del commit --> regrasa a una version anterior del commit
+git remote -v
+git push origin master
+git es para versionar tus archivos 

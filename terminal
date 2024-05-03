@@ -1,0 +1,11 @@
+ls --> enlista los archivos y carpetas
+cd --> sirvepara intercambiar de repositorio
+mkdir + nombre--> crear carpetas
+touch + nombre --> crea archivos
+nano --> edita el archivo
+cat --> visualiza el contenido
+mv + nombre --> mover archivo
+cd + nombre --> avanzar de repositorio
+cd .. --> retrocede un repositorio
+history --> lista de comandos
+clear --> limpia la terminal
